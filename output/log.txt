@@ -1,0 +1,214 @@
+
+train 	Epoch 0/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.69590 	  acc_ave: 0.52448 	  
+
+train 	Epoch 1/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.70685 	  acc_ave: 0.50729 	  
+
+train 	Epoch 2/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.70006 	  acc_ave: 0.50625 	  
+
+train 	Epoch 3/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.69799 	  acc_ave: 0.50833 	  
+
+train 	Epoch 4/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.71919 	  acc_ave: 0.50104 	  
+
+train 	Epoch 5/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.71782 	  acc_ave: 0.49271 	  
+
+train 	Epoch 0/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.68404 	  acc_ave: 0.54112 	  
+
+test 	Epoch 0/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.63738 	  acc_ave: 0.65605 	  
+
+train 	Epoch 1/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.58880 	  acc_ave: 0.68965 	  
+
+test 	Epoch 1/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.53221 	  acc_ave: 0.73438 	  
+
+train 	Epoch 2/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.48523 	  acc_ave: 0.76758 	  
+
+test 	Epoch 2/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.51087 	  acc_ave: 0.75260 	  
+
+train 	Epoch 3/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.38251 	  acc_ave: 0.82853 	  
+
+test 	Epoch 3/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.51971 	  acc_ave: 0.75240 	  
+
+train 	Epoch 4/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.24744 	  acc_ave: 0.90139 	  
+
+test 	Epoch 4/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.62896 	  acc_ave: 0.74079 	  
+
+train 	Epoch 5/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.11329 	  acc_ave: 0.96204 	  
+
+test 	Epoch 5/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.87603 	  acc_ave: 0.74740 	  
+
+train 	Epoch 6/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.05625 	  acc_ave: 0.98097 	  
+
+test 	Epoch 6/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.97470 	  acc_ave: 0.74339 	  
+
+train 	Epoch 7/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.02678 	  acc_ave: 0.99169 	  
+
+test 	Epoch 7/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.41389 	  acc_ave: 0.72857 	  
+
+train 	Epoch 8/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.03089 	  acc_ave: 0.98983 	  
+
+test 	Epoch 8/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.38965 	  acc_ave: 0.73658 	  
+
+train 	Epoch 9/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01453 	  acc_ave: 0.99564 	  
+
+test 	Epoch 9/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.43891 	  acc_ave: 0.73998 	  
+
+train 	Epoch 10/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01323 	  acc_ave: 0.99589 	  
+
+test 	Epoch 10/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.57187 	  acc_ave: 0.73758 	  
+
+train 	Epoch 11/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01148 	  acc_ave: 0.99624 	  
+
+test 	Epoch 11/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.83959 	  acc_ave: 0.74079 	  
+
+train 	Epoch 12/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01547 	  acc_ave: 0.99419 	  
+
+test 	Epoch 12/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.63288 	  acc_ave: 0.72636 	  
+
+train 	Epoch 13/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01606 	  acc_ave: 0.99504 	  
+
+test 	Epoch 13/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.83166 	  acc_ave: 0.73778 	  
+
+train 	Epoch 14/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01841 	  acc_ave: 0.99459 	  
+
+test 	Epoch 14/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.83187 	  acc_ave: 0.73237 	  
+
+train 	Epoch 15/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00737 	  acc_ave: 0.99745 	  
+
+test 	Epoch 15/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.99544 	  acc_ave: 0.73377 	  
+
+train 	Epoch 16/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01726 	  acc_ave: 0.99479 	  
+
+test 	Epoch 16/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.72373 	  acc_ave: 0.72817 	  
+
+train 	Epoch 17/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00357 	  acc_ave: 0.99900 	  
+
+test 	Epoch 17/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.06050 	  acc_ave: 0.72616 	  
+
+train 	Epoch 18/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.02183 	  acc_ave: 0.99204 	  
+
+test 	Epoch 18/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.77683 	  acc_ave: 0.73197 	  
+
+train 	Epoch 19/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00551 	  acc_ave: 0.99830 	  
+
+test 	Epoch 19/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.07723 	  acc_ave: 0.72636 	  
+
+train 	Epoch 20/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01006 	  acc_ave: 0.99679 	  
+
+test 	Epoch 20/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.77754 	  acc_ave: 0.72977 	  
+
+train 	Epoch 21/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00654 	  acc_ave: 0.99775 	  
+
+test 	Epoch 21/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.97755 	  acc_ave: 0.73237 	  
+
+train 	Epoch 22/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01447 	  acc_ave: 0.99529 	  
+
+test 	Epoch 22/300 	 Learning rate: 0.00100 	 Train loss_ave: 1.83798 	  acc_ave: 0.72837 	  
+
+train 	Epoch 23/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00253 	  acc_ave: 0.99930 	  
+
+test 	Epoch 23/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.18616 	  acc_ave: 0.73337 	  
+
+train 	Epoch 24/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00030 	  acc_ave: 0.99995 	  
+
+test 	Epoch 24/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.16431 	  acc_ave: 0.73758 	  
+
+train 	Epoch 25/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00009 	  acc_ave: 1.00000 	  
+
+test 	Epoch 25/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.20965 	  acc_ave: 0.74038 	  
+
+train 	Epoch 26/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00006 	  acc_ave: 1.00000 	  
+
+test 	Epoch 26/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.26911 	  acc_ave: 0.74058 	  
+
+train 	Epoch 27/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00005 	  acc_ave: 1.00000 	  
+
+test 	Epoch 27/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.34379 	  acc_ave: 0.73978 	  
+
+train 	Epoch 28/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00004 	  acc_ave: 1.00000 	  
+
+test 	Epoch 28/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.39788 	  acc_ave: 0.74058 	  
+
+train 	Epoch 29/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00005 	  acc_ave: 1.00000 	  
+
+test 	Epoch 29/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.46898 	  acc_ave: 0.74119 	  
+
+train 	Epoch 30/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00005 	  acc_ave: 1.00000 	  
+
+test 	Epoch 30/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.57262 	  acc_ave: 0.74058 	  
+
+train 	Epoch 31/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00023 	  acc_ave: 0.99995 	  
+
+test 	Epoch 31/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.58389 	  acc_ave: 0.74038 	  
+
+train 	Epoch 32/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00001 	  acc_ave: 1.00000 	  
+
+test 	Epoch 32/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.79411 	  acc_ave: 0.74339 	  
+
+train 	Epoch 33/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 33/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.82392 	  acc_ave: 0.74359 	  
+
+train 	Epoch 34/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 34/300 	 Learning rate: 0.00100 	 Train loss_ave: 2.92667 	  acc_ave: 0.74219 	  
+
+train 	Epoch 35/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 35/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.03133 	  acc_ave: 0.74119 	  
+
+train 	Epoch 36/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 36/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.05231 	  acc_ave: 0.74199 	  
+
+train 	Epoch 37/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 37/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.08075 	  acc_ave: 0.74259 	  
+
+train 	Epoch 38/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 38/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.12744 	  acc_ave: 0.74239 	  
+
+train 	Epoch 39/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 39/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.13692 	  acc_ave: 0.74239 	  
+
+train 	Epoch 40/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 40/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.20486 	  acc_ave: 0.74299 	  
+
+train 	Epoch 41/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 41/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.24436 	  acc_ave: 0.74319 	  
+
+train 	Epoch 42/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 42/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.25587 	  acc_ave: 0.74339 	  
+
+train 	Epoch 43/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 43/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.30244 	  acc_ave: 0.74319 	  
+
+train 	Epoch 44/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 44/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.35500 	  acc_ave: 0.74239 	  
+
+train 	Epoch 45/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 45/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.36800 	  acc_ave: 0.74299 	  
+
+train 	Epoch 46/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 46/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.39775 	  acc_ave: 0.74379 	  
+
+train 	Epoch 47/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 47/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.43178 	  acc_ave: 0.74339 	  
+
+train 	Epoch 48/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 48/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.47221 	  acc_ave: 0.74299 	  
+
+train 	Epoch 49/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
+
+test 	Epoch 49/300 	 Learning rate: 0.00100 	 Train loss_ave: 3.51708 	  acc_ave: 0.74239 	  
+
+train 	Epoch 50/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00000 	  acc_ave: 1.00000 	  
