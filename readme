@@ -1,5 +1,14 @@
 
 猫狗识别，pytorch代码
+数据集获取：
+
+
+
+1.链接：https://pan.baidu.com/s/1AS_K-0BWNd65kBga1wDNpw 
+提取码：6vyz 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+2.
+https://www.kaggle.com/jaeboklee/pytorch-cat-vs-dog
 
 train Epoch10    lr0.001: 100%|██████████| 312/312 [11:12<00:00,  2.15s/it, loss=0.0032  accuracy:1.0000   loss_ave:0.01323  acc_ave:0.99589]
 
